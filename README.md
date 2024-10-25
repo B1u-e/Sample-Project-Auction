@@ -5,7 +5,7 @@
 
 **合约部署地址：**
 合约地址：0xA5D249A4e214eea915f3F1BC6C15FaBA61a2EA25
-snowtrace：https://testnet.snowtrace.io/address/0xA5D249A4e214eea915f3F1BC6C15FaBA61a2EA25#code
+- snowtrace：https://testnet.snowtrace.io/address/0xA5D249A4e214eea915f3F1BC6C15FaBA61a2EA25#code
 
 ## Overview
 
