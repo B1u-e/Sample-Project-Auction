@@ -4,7 +4,7 @@
 每个购买者在拍卖期间发送他们的竞标到智能合约。 竞标包括发送资金，以便将购买者与他们的竞标绑定。 如果最高出价被提高，之前的出价者就可以拿回他们的竞标资金。 竞价期结束后，出售人可以手动调用合约，收到他们的收益。
 
 **合约部署地址：**
-合约地址：0xA5D249A4e214eea915f3F1BC6C15FaBA61a2EA25
+- 合约地址：0xA5D249A4e214eea915f3F1BC6C15FaBA61a2EA25
 - snowtrace：https://testnet.snowtrace.io/address/0xA5D249A4e214eea915f3F1BC6C15FaBA61a2EA25#code
 
 ## Overview
